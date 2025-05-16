@@ -6,4 +6,3 @@ This is a simple quiz game coded in Python. It's my first project, so it's super
 - Answer the questions that appear.
 - See your score at the end!
 
-### 🚀 You're all done! Feel free to share suggestions for improving or adding to the current code. 
